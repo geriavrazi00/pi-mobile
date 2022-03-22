@@ -1,0 +1,14 @@
+export { default as Logo } from './PI.svg';
+export { default as FrontWave } from './front_wave.svg';
+export { default as BackWave } from './back_wave.svg';
+export { default as Avatar } from './avatar.svg';
+export { default as Lock } from './locked.svg';
+export { default as Exit } from './exit_x.svg';
+export { default as Back } from './left-arrow.svg';
+export { default as LogOut } from './logout.svg';
+export { default as CalendarImg } from './calendar.svg';
+export { default as ProfileImg } from './profile.svg';
+export { default as ScheduleImg } from './schedule.svg';
+export { default as TodayImg } from './today.svg';
+export { default as DashboardImg } from './dashbodard.svg';
+export { default as NotFoundView } from './not_found.svg';
